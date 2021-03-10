@@ -1,1 +1,3 @@
-# portscan-with-scapy
+# Usage
+
+#python portscan-with-scapy [IP]
